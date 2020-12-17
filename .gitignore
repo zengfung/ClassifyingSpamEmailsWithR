@@ -1,0 +1,19 @@
+# all the ham and spam email files
+easy_ham/
+easy_ham_2/
+hard_ham/
+spam/
+spam_2/
+
+# tar.gz file 
+**.tar.gz
+
+# prompt
+emailRegex.pdf
+
+# cache files
+.RData
+.Rhistory
+
+# rmd report file
+report.Rmd
